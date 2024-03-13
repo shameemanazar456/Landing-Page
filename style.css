@@ -1,0 +1,11 @@
+header{
+    height: 50vh;
+    background-image: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_Internet.jpg');
+    background-size: cover;
+}
+form{
+    background-image: linear-gradient(to right,white,rgb(209,209,233));
+}
+form span{
+    font-size: small;
+}
